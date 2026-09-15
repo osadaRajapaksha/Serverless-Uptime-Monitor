@@ -8,3 +8,4 @@
 - 09/15/2026 10:48:01: Add retry logic for transient network errors
 - 09/15/2026 10:48:02: Update function.json schedule explanation
 - 09/15/2026 10:48:02: Add custom exceptions for HTTP errors
+- 09/15/2026 10:48:02: Refactor Terraform variable names for clarity
