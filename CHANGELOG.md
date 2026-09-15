@@ -1,1 +1,2 @@
 - 09/15/2026 10:48:00: Update README with project description
+- 09/15/2026 10:48:01: Add architecture diagram placeholder
