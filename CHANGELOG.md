@@ -11,3 +11,4 @@
 - 09/15/2026 10:48:02: Refactor Terraform variable names for clarity
 - 09/15/2026 10:48:02: Add output variables to Terraform
 - 09/15/2026 10:48:02: Update RBAC rules for stricter access
+- 09/15/2026 10:48:02: Add comments to Terraform main.tf
