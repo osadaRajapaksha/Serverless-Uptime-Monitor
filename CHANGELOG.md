@@ -13,3 +13,4 @@
 - 09/15/2026 10:48:02: Update RBAC rules for stricter access
 - 09/15/2026 10:48:02: Add comments to Terraform main.tf
 - 09/15/2026 10:48:02: Tweak Application Insights sampling settings
+- 09/15/2026 10:48:02: Add unit test for parsing endpoint list
