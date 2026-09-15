@@ -10,3 +10,4 @@
 - 09/15/2026 10:48:02: Add custom exceptions for HTTP errors
 - 09/15/2026 10:48:02: Refactor Terraform variable names for clarity
 - 09/15/2026 10:48:02: Add output variables to Terraform
+- 09/15/2026 10:48:02: Update RBAC rules for stricter access
